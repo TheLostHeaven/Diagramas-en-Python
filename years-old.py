@@ -23,7 +23,7 @@ while True:
             break
 #Si no se cumple se ejecuta esta variable
         else:
-            print("Lo siento suerte a la proxima")
+            print("Lo siento no eres legal, ¡Suerte a la proxima!")
             break
 #Se ejecuta caundo no quiere saber 
     elif opcion == 2:
