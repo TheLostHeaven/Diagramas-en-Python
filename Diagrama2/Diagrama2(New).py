@@ -27,19 +27,29 @@ while True:
         time.sleep(2)
         #Aqui ponemos la variables anidadas
         
-        checkpoint = += 1:
+        checkpoint += 1
         if checkpoint == 1:() 
         print("================================================")
         print("¿Encotraste algo disponible?")
-
-        opcion1 = int(input("Pon aqui tu opcion"))
+        print("1) Si")
+        print("2) No")
+        opcion1 = int(input("Pon aqui tu opcion: "))
+        print("================================================")
         if opcion1 == 1: 
-            print("")
+            print("Listo sigamos con lo siguiente")
         elif opcion1 == 2:
-            print("")
+            print("Listo vuelve a hacer los pasos anteriores")
         else:
-            print("")
-
+            print("Opcion no permitida >:c")
+        print("================================================")
+        
+            opcion2 = int(input ("Pon aqui tu opcion: "))
+            if opcion2 == 1: 
+                print("")
+            elif opcion2 == 2:
+                print
+            else:
+                print("Opcion no permitida >:c")
 
     elif opcion == 2:
         print("¿No quieres ir a comer?")
