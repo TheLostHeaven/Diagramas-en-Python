@@ -11,5 +11,5 @@ for Frutas in Lista:
         print(Frutas)
         print(letra)
 #Aqui le damos un pequeño delay al imprimir
-        time.sleep(1)
+        time.sleep(0.1)
         print("================================================")
