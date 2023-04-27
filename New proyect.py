@@ -3,7 +3,7 @@ from tqdm import tqdm
 import random
 import time
 from colorama import Fore, Back, Style
-
+#Aqui estaba haciendo algunas pruebas
 
 # print(Fore.RED + 'Este texto es rojo')
 # print(Back.GREEN + 'y este tiene fondo verde')
