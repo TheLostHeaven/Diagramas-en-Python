@@ -27,8 +27,8 @@ while True:
             break
 #Se ejecuta caundo no quiere saber 
     elif opcion == 2:
-        break
         print("¿No quieres saber si eres legal?")
+        break
 #Aqui es cuando ponen un valor no valido
     else:
         print("Esa opcion no esta permitida >:c")
