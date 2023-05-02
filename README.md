@@ -1,4 +1,10 @@
-# Proyecto de python
-![python](https://seeklogo.com/vector-logo/207405/python)
+# Diagramas y proyectos de python
 
-<!-- Aqui doy unos pequeños Proyectos hechos con el leguaje de python para mejorar logica de programacion y poder leer el codigo con la sintaxis que ofrece python -->
+![Logo](../Python/Logos/python-seeklogo.com.ai)
+
+Repositorio de proyectos hechos con el leguaje de python donde se ven vaias funciones como Bucles con While True y For mas que todo y tambien usar librerias.
+
+Esta comentado la mayoria de archivos y que hace cada funcion y esta listo para correr en la terminal.
+## Authors
+
+- [@TheLostHeaven](https://github.com/TheLostHeaven)
