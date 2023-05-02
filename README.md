@@ -1,6 +1,6 @@
 # Diagramas y proyectos de python
 
-![Logo](../Python/Logos/python-seeklogo.com.ai)
+![Logo](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 
 Repositorio de proyectos hechos con el leguaje de python donde se ven vaias funciones como Bucles con While True y For mas que todo y tambien usar librerias.
 
